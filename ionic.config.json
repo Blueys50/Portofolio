@@ -1,7 +1,0 @@
-{
-  "name": "gDrive",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
