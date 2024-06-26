@@ -1,0 +1,2 @@
+import{p as r,b as t}from"./p-4758dd2b.js";export{s as setNonce}from"./p-4758dd2b.js";import{g as a}from"./p-e1255160.js";var o=()=>{const s=import.meta.url;const t={};if(s!==""){t.resourcesUrl=new URL(".",s).href}return r(t)};o().then((async r=>{await a();return t([["p-280fbf01",[[1,"cat-iframe"]]]],r)}));
+//# sourceMappingURL=animal-iframe.esm.js.map
